@@ -33,7 +33,7 @@ public class HowToUseWebdriverManager {
 	}
 	@Test
 	public void WebdriverManagerTest() {
-		driver.get("https://www.facebook.com");
+		driver.get("https://www.google.com");
 	}
 	
 
