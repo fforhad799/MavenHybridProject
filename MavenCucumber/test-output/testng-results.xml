@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-05-13T15:29:24Z" name="Default suite" finished-at="2019-05-13T15:29:47Z" duration-ms="22391">
+    <groups>
+    </groups>
+    <test started-at="2019-05-13T15:29:24Z" name="Default test" finished-at="2019-05-13T15:29:47Z" duration-ms="22391">
+      <class name="pack1.Facebook">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:pack1.Facebook@4961f6af]" started-at="2019-05-13T15:29:24Z" name="openBrowser" finished-at="2019-05-13T15:29:27Z" duration-ms="2502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="facebookText(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:pack1.Facebook@4961f6af]" started-at="2019-05-13T15:29:27Z" name="facebookText" data-provider="facebookData" finished-at="2019-05-13T15:29:34Z" duration-ms="7046" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[forhad]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[uddin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[forhad@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1nnbc]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[uddinsu23@yahoo.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Feb]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookText -->
+        <test-method signature="facebookText(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:pack1.Facebook@4961f6af]" started-at="2019-05-13T15:29:34Z" name="facebookText" data-provider="facebookData" finished-at="2019-05-13T15:29:37Z" duration-ms="2916" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SUMU]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[parvij]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[forhad@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1nnbck]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[uddinsu23@yahoo.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Jan]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2001]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookText -->
+        <test-method signature="facebookText(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:pack1.Facebook@4961f6af]" started-at="2019-05-13T15:29:37Z" name="facebookText" data-provider="facebookData" finished-at="2019-05-13T15:29:40Z" duration-ms="2887" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[forhad]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[uddin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[forhad@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1nnbc]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[uddinsu23@yahoo.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Feb]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookText -->
+        <test-method signature="facebookText(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:pack1.Facebook@4961f6af]" started-at="2019-05-13T15:29:40Z" name="facebookText" data-provider="facebookData" finished-at="2019-05-13T15:29:42Z" duration-ms="2794" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aleya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[parvij]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[forhad@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1nnbck]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[uddinsu23@yahoo.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Jan]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2001]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.ElementNotVisibleException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'MDs-Air-2.home', ip: 'fe80:0:0:0:c83:af32:a5df:3906%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: /var/folders/nk/2n_b4wvx129...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63908}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: efec96b145e7be8119b02c2d2c920b4a]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotVisibleException: element not interactable
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.12.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'MDs-Air-2.home', ip: 'fe80:0:0:0:c83:af32:a5df:3906%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '11.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: /var/folders/nk/2n_b4wvx129...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63908}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.131, webStorageEnabled: true}
+Session ID: efec96b145e7be8119b02c2d2c920b4a
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+at pack1.Facebook.facebookText(Facebook.java:50)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotVisibleException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookText -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:pack1.Facebook@4961f6af]" started-at="2019-05-13T15:29:42Z" name="CloseBrowser" finished-at="2019-05-13T15:29:47Z" duration-ms="4216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- pack1.Facebook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
